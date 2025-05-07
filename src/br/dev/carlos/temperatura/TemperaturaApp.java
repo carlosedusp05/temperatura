@@ -9,7 +9,6 @@ public class TemperaturaApp {
 		
 		TelaConversor tela = new TelaConversor();
 		tela.criarTelaConversor();
-		
 
 	}
 

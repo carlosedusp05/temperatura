@@ -20,7 +20,6 @@ public class Temperatura {
 	public double converterParaKelvin() {
 		double kelvin = celsius + 273.15;
 		return kelvin;
-				
 		
 	}
 	
