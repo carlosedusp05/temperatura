@@ -1,15 +1,17 @@
 package br.dev.carlos.temperatura.model;
 
 public class Temperatura {
+	
+	//atributo da classe
 	private double celsius;
 
- 
-
+	//metodos da classe
 	public double getCelsius() {
 		return celsius; 
 		
 	}
 	
+	//Lógicas de conversão 
 	public void setCelsius( double celsius) {
 		this.celsius = celsius;
 		
